@@ -8,8 +8,7 @@ operator overloading (__lt__).
 
 from __future__ import annotations
 from dataclasses import dataclass
-from quality_metric import QualityMetric
-
+from src.quality_metric import QualityMetric
 
 @dataclass
 class FoodItem:
