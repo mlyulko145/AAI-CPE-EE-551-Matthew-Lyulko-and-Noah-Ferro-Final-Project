@@ -1,1 +1,12 @@
+food,store,price,expiration_days
+Milk,ShopRite,3.49,7
+Milk,Walgreens,3.99,7
+Eggs,ShopRite,4.29,14
+Eggs,Walgreens,4.59,14
+Bread,ShopRite,2.99,5
+Bread,Walgreens,3.49,5
+Rice,ShopRite,6.99,365
+Rice,Walgreens,7.49,365
+Chicken,ShopRite,9.99,3
+Chicken,Walgreens,10.49,3
 
