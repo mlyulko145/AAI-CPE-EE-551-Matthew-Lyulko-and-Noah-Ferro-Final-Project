@@ -1,6 +1,6 @@
 import pytest
 from src.quality_metric import QualityMetric
-from src.utils import average_price, accessibility_score
+from src.utils import average_price
 
 
 def test_overall_score_computation():
@@ -12,4 +12,3 @@ def test_overall_score_computation():
 def test_average_price_empty_list():
     with pytest.raises(ValueError):
         average_price([])
-
