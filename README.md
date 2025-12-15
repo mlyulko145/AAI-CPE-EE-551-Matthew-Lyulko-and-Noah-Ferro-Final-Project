@@ -26,9 +26,9 @@ The datasets used in this project are created by us using data found on the stor
 
 Files:
 
-   - data/prices.csv
+   - `data/prices.csv`
      
-   - data/necessity_survey.csv
+   - `data/necessity_survey.csv`
      
 ## Program Structure
 
