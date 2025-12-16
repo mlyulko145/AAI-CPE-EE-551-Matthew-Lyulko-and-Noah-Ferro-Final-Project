@@ -77,6 +77,20 @@ Matthew Lyulko
 
 8. Pytest unit test creation
 
+Noah Ferro
+
+1. Added creative dataset interpretation and translation using Score proportion breakdown (metric based)
+
+2. Developed and utilized decision criterion to decide which store was optimal and why.
+
+3. Created a 4th variable (availability score) to add realism to shopping data.
+
+4. Developed a user input function for new data (website practicality function #1)
+
+5. Developed a recommendation system based on user data (website practicality function #2)
+
+6. Installed and created sliders using Ipywidgets to make app enticing for user.
+
 ## Python Version
 
 Developed and tested using Python 3.12 / 3.13.
